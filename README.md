@@ -37,7 +37,6 @@ This is a short description of dataset’s attributes:
 ## The methods:
 To reach the goal I’m going to apply these methods:
 -	Logistic Regression
--	K-Means
 -	Gaussian Naïve-Bayes
 -	Random Forest
 ## The evaluation framework:
